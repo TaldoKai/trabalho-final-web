@@ -1,0 +1,19 @@
+.card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+}
+
+.header {
+    background-color: #e6b457;
+}
+
+.bg-custom-yellow {
+    background-color: #e6b457;
+}
